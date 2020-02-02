@@ -79,6 +79,6 @@ void keyPressed() {
   } else if (key == 'r') {
     winner = false;
     randomNumber();
-    time = 1;
+    time = 30;
   }
 }
